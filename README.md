@@ -24,3 +24,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://angular-alarm-app-by-ganesh-kavhar.stackblitz.io/
 
 ## Screens
+
+![Screenshot 1942-09-02 at 11 10 41 AM](https://user-images.githubusercontent.com/20369800/99931973-92fa3d80-2d7c-11eb-86f7-bb3462f7d429.png)
+
